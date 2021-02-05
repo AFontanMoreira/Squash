@@ -9,4 +9,7 @@ public class colaborador {
     public void segundoCambio(){
         System.out.println("segundo cambio");
     }
+    public void tercerCambio(){
+        System.out.println("tercer cambio");
+    }
 }
