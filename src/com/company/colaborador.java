@@ -6,4 +6,7 @@ public class colaborador {
 
         System.out.println(" primer cambio ");
     }
+    public void segundoCambio(){
+        System.out.println("segundo cambio");
+    }
 }
